@@ -54,16 +54,16 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Node Server Tutorial](https://gist.github.com/dsdunn/9f9c98f33f8976fd1c6e5aaac764b2b6)
 * [Express Tutorial](https://github.com/dsdunn/mod4expressPrework) 1-3
 * [Promise Practice Exercises](https://gist.github.com/dsdunn/86af845ae13cfc2351d9002052f16d1a)
-* [House of Vars Blog Post](https://medium.com/@dsdunnmusic/my-first-open-source-contribution-f3afcf44cdb1)
-* [Pattern Party Repo](https://github.com/dsdunn/pattrn-party)
-* [Pattern Party GitHub Pages](https://dsdunn.github.io/pattrn-party/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Gavin Love
 
 * [Node Server Tutorial](https://github.com/gavin-love/node-server-pre-work)
 * [Express Tutorial](https://github.com/gavin-love/express-intro) - What additional items did you work on? 1,3,4
 * [Promise Practice Exercises](https://github.com/gavin-love/promises-practice)
-* [House of Vars Blog Post]()
+* [House of Vars Blog Post](https://medium.com/p/97d669d87023/edit)
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
 
@@ -102,9 +102,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
   - What additional items did you work on?
     (1,2,4)
 * [Promise Practice Exercises](https://gist.github.com/RyanH5/9d978fde18d798e964c1474e6c4e120d)
-* [House of Vars Blog Post](https://medium.com/@marika.ross/i-had-never-given-much-thought-to-the-distinction-between-being-a-big-idea-person-versus-one-who-is-32e0a7ec14eb)
-* [Pattern Party Repo](https://github.com/marikaross/Pattrn-Party)
-* [Pattern Party GitHub Pages](https://marikaross.github.io/Pattrn-Party/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Spenser Leighton
 
